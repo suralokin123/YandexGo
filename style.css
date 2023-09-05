@@ -363,7 +363,11 @@ img {
   .buy-main-title {
     width: 300px;
     font-size: 32px;
-    padding-right: 200px;
+    padding-right:1050px;
+  }
+
+  .hidden {
+    display: none;
   }
 
   .buy-subtitle {
@@ -374,7 +378,8 @@ img {
   .inclub-users-Main {
     width: 300px;
     font-size: 32px;
-    padding-right: 50px;
+    padding-right: 110px;
+    padding-top:100px;
   }
 
   .inclub-users-title {
